@@ -23,10 +23,7 @@
 ## ⚡️ Bắt đầu nhanh
 
 ### 1. **Clone Repo**
-```
-git clone https://github.com/Kazuha787/Herafi-Auto-Bot.git
-cd Herafi-Auto-Bot
-```
+
 ### 2. **Cài đặt thư viện**
 ```
 npm install
