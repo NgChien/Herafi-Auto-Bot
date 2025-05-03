@@ -1,0 +1,15 @@
+# Loại trừ thư mục node_modules
+node_modules/
+
+# Loại trừ file cấu hình môi trường
+.env
+
+# Loại trừ file chứa private key
+pvkey.txt
+
+# Loại trừ các file log
+*.log
+
+# Loại trừ các file hệ thống
+.DS_Store
+Thumbs.db 
